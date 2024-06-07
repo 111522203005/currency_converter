@@ -1,0 +1,5 @@
+{
+  "java.configuration.updateBuildConfiguration": "interactive",
+  "cmake.configureOnOpen": true,
+  "cmake.sourceDirectory": "/Users/bharath/Documents/flutter_projects/currency_converter/linux"
+}
